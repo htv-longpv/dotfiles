@@ -1,0 +1,31 @@
+commodity 1.000, VND
+
+2025-03-28 * Init
+    (Assets:Cash)  1.000.000 VND
+    (Assets:TCB:Balance)  1.066.144 VND
+    (Assets:TCB:Savings)  45.000.000 VND
+    (Assets:HSBC)  3.752.452 VND
+    (Assets:Receivable:HKT)  30.000.000 VND
+    (Assets:Receivable:Hugo)  20.000.000 VND
+    (Assets:Receivable:Cong)  203.000.000 VND
+    (Assets:RF:Golds:20250321)  0,5 mace @@ 5.010.000 VND
+    (Assets:RF:Golds:20250219)  4 mace @@ 36.640.000 VND
+    (Assets:RF:Golds:20250214)  2 mace @@ 18.220.000 VND
+    (Assets:IF:Stocks)  100 OPC @@ 2.331.000 VND
+    (Liabilities:HSBC:Credit)  -47.451.794 VND
+    (Liabilities:HSBC:Installments)  -80.035.671 VND
+    (Liabilities:Debts:Citi)  -36.553.917 VND
+    (Liabilities:Debts:Hugo)  -3.000.000 VND
+    (Liabilities:Debts:Car)  -200.000.000 VND
+
+~ monthly from 2025-04
+    Expenses:Wants:Car:Parking:Home  700.000 VND
+    Expenses:Wants:Citi Debts  3.323.083 VND
+    Expenses:Needs:Home:Service Fee  249.000 VND
+    Expenses:Needs:Home:Motor:Parking  160.000 VND
+    Expenses:Needs:Home:Water  39.100 VND
+    Expenses:Needs:Home:Electric  500.000 VND
+    Expenses:Needs:Home:Internet  150.000 VND
+    Income:Salary
+    Income:Receivable:HKT  -250.000 VND
+    Income:Receivable:Hugo  -1.200.000 VND
